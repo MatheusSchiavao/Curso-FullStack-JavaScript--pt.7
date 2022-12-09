@@ -1,2 +1,3 @@
+# TypeScritpt (TS)
+
 Começando uma nova linguagem!
-#TypeScritpt (TS)
