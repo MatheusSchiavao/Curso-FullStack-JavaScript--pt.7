@@ -1,0 +1,20 @@
+{
+  "name": "aula_14-modulos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc-watch": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
