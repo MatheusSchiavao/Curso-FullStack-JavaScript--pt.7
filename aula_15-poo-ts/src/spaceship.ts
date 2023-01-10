@@ -36,7 +36,7 @@ class Fighter extends Spaceship {
     for (let i = 0; i < this.weapons; i++) {
       console.log('Pew!')
     }
-  }
+  } 
 
   erase() {
     this.captain = ''
