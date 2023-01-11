@@ -1,3 +1,3 @@
 # TypeScritpt (TS)
 
-Começando uma nova linguagem!
+Finalizado o módulo de TypeScript!
